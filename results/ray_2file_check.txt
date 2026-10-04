@@ -1,0 +1,1 @@
+METRICS: {'framework': 'ray', 'udf_mode': 'python', 'files': 2, 'wall_clock_sec': 10.18, 'output_rows': 3805035}

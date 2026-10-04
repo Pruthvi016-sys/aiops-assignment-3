@@ -1,0 +1,7 @@
+{
+  "framework": "ray",
+  "udf_mode": "native",
+  "files": 11,
+  "wall_clock_sec": 37.47,
+  "output_rows": 30231548
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "spark_python_n2_run0",
+  "framework": "spark",
+  "udf_mode": "python",
+  "files": 2,
+  "pipeline_wall_sec": 26.75,
+  "process_total_sec": 30.29,
+  "output_rows": 3805035,
+  "verified_rows": 3805035,
+  "row_hash": "5a139995bd24ac09",
+  "sums": {
+    "total_amount": 96695438.54,
+    "avg_speed_mph": 45853359.7719,
+    "trip_distance": 12852042.26
+  },
+  "peak_cpu_pct": 100.0,
+  "mean_cpu_pct": 68.6,
+  "baseline_mem_gib": 3.77,
+  "peak_mem_gib": 8.163,
+  "peak_mem_delta_gib": 4.39,
+  "logical_cores": 12
+}

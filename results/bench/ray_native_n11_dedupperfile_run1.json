@@ -1,0 +1,22 @@
+{
+  "tag": "ray_native_n11_dedupperfile_run1",
+  "framework": "ray",
+  "udf_mode": "native",
+  "files": 11,
+  "pipeline_wall_sec": 36.87,
+  "process_total_sec": 38.8,
+  "output_rows": 30231548,
+  "verified_rows": 30231548,
+  "row_hash": "a59a398d0488d733",
+  "sums": {
+    "total_amount": 734843384.360001,
+    "avg_speed_mph": 352525031.1558999,
+    "trip_distance": 102373204.28
+  },
+  "peak_cpu_pct": 37.6,
+  "mean_cpu_pct": 25.8,
+  "baseline_mem_gib": 4.98,
+  "peak_mem_gib": 9.644,
+  "peak_mem_delta_gib": 4.66,
+  "logical_cores": 12
+}

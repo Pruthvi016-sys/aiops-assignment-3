@@ -1,0 +1,44 @@
+Usage stats collection is enabled. To disable this, add `--disable-usage-stats` to the command that starts the cluster, or run the following command: `ray disable-usage-stats` before starting the cluster. See https://docs.ray.io/en/master/cluster/usage-stats.html for more details.
+
+[37mLocal node IP[39m: [1m10.103.74.75[22m
+
+[32m--------------------[39m
+[32mRay runtime started.[39m
+[32m--------------------[39m
+
+[36mNext steps[39m
+  [2mNote: The following commands are intended for use on[22m
+  [2mthe head node or within the cluster network.[22m
+  
+  To add another node to this Ray cluster, run
+  [1m  ray start --address='10.103.74.75:6379'[22m
+  
+  To connect to this Ray cluster:
+    [35mimport[39m[26m ray
+    ray[35m.[39m[26minit(_node_ip_address[35m=[39m[26m[33m'10.103.74.75'[39m[26m)
+  
+  To submit a Ray job using the Ray Jobs CLI:
+  [1m  RAY_API_SERVER_ADDRESS='http://127.0.0.1:8265' ray job submit --working-dir . -- python my_script.py[22m
+  
+  See https://docs.ray.io/en/latest/cluster/running-applications/job-submission/index.html 
+  for more information on submitting Ray jobs to the Ray cluster.
+  
+  To terminate the Ray runtime, run
+  [1m  ray stop[22m
+  
+  To view the status of the cluster, use
+    [1mray status[22m[26m
+  
+  To monitor and debug Ray, view the dashboard at 
+    [1m127.0.0.1:8265[22m[26m
+  
+  [4mIf connection to the dashboard fails, check your firewall settings and network configuration.[24m
+[37mLocal node IP[39m: [1m10.103.74.75[22m
+
+[32m--------------------[39m
+[32mRay runtime started.[39m
+[32m--------------------[39m
+
+To terminate the Ray runtime, run
+[1m  ray stop[22m
+Ray Dashboard: http://127.0.0.1:8265

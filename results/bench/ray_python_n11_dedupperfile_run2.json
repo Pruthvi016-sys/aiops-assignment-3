@@ -1,0 +1,22 @@
+{
+  "tag": "ray_python_n11_dedupperfile_run2",
+  "framework": "ray",
+  "udf_mode": "python",
+  "files": 11,
+  "pipeline_wall_sec": 45.95,
+  "process_total_sec": 47.81,
+  "output_rows": 30231548,
+  "verified_rows": 30231548,
+  "row_hash": "afaacbedeb7b48da",
+  "sums": {
+    "total_amount": 734843384.360001,
+    "avg_speed_mph": 352525031.0447,
+    "trip_distance": 102373204.28
+  },
+  "peak_cpu_pct": 40.9,
+  "mean_cpu_pct": 27.4,
+  "baseline_mem_gib": 5.03,
+  "peak_mem_gib": 9.916,
+  "peak_mem_delta_gib": 4.89,
+  "logical_cores": 12
+}

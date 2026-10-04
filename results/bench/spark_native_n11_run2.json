@@ -1,0 +1,22 @@
+{
+  "tag": "spark_native_n11_run2",
+  "framework": "spark",
+  "udf_mode": "native",
+  "files": 11,
+  "pipeline_wall_sec": 79.86,
+  "process_total_sec": 84.1,
+  "output_rows": 30231548,
+  "verified_rows": 30231548,
+  "row_hash": "1201c639990ecbf7",
+  "sums": {
+    "total_amount": 734843384.3600001,
+    "avg_speed_mph": 352525033.2534999,
+    "trip_distance": 102373204.27999999
+  },
+  "peak_cpu_pct": 99.2,
+  "mean_cpu_pct": 74.1,
+  "baseline_mem_gib": 2.6,
+  "peak_mem_gib": 9.707,
+  "peak_mem_delta_gib": 7.1,
+  "logical_cores": 12
+}

@@ -1,0 +1,7 @@
+{
+  "framework": "spark",
+  "udf_mode": "python",
+  "files": 11,
+  "wall_clock_sec": 86.64,
+  "output_rows": 30231550
+}

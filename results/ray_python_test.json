@@ -1,0 +1,7 @@
+{
+  "framework": "ray",
+  "udf_mode": "python",
+  "files": 11,
+  "wall_clock_sec": 61.41,
+  "output_rows": 30231550
+}

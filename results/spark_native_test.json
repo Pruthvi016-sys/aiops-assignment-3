@@ -1,0 +1,7 @@
+{
+  "framework": "spark",
+  "udf_mode": "native",
+  "files": 11,
+  "wall_clock_sec": 79.86,
+  "output_rows": 30231548
+}

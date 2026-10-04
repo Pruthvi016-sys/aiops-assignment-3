@@ -1,0 +1,22 @@
+{
+  "tag": "ray_python_n11_run2",
+  "framework": "ray",
+  "udf_mode": "python",
+  "files": 11,
+  "pipeline_wall_sec": 452.11,
+  "process_total_sec": 453.9,
+  "output_rows": 30231548,
+  "verified_rows": 30231548,
+  "row_hash": "afaacbedeb7b48da",
+  "sums": {
+    "total_amount": 734843384.3599998,
+    "avg_speed_mph": 352525031.0446998,
+    "trip_distance": 102373204.27999991
+  },
+  "peak_cpu_pct": 98.7,
+  "mean_cpu_pct": 12.9,
+  "baseline_mem_gib": 2.71,
+  "peak_mem_gib": 11.281,
+  "peak_mem_delta_gib": 8.57,
+  "logical_cores": 12
+}

@@ -1,0 +1,141 @@
+free MB at start: 35927M
+ray nodes up: 2
+[ray_python_full_deduphash_run1] running: /home/mudda-manikanta-pruthvi-raj/miniconda3/envs/sparkray/bin/python ray_clean.py --max-files 0 --udf-mode python --out output/bench_ray --dedup hash
+  ... 30s elapsed | cpu 14% | mem 8.2 GiB
+  ... 60s elapsed | cpu 47% | mem 9.4 GiB
+  ... 90s elapsed | cpu 5% | mem 9.4 GiB
+  ... 120s elapsed | cpu 9% | mem 9.3 GiB
+  ... 150s elapsed | cpu 8% | mem 9.3 GiB
+  ... 180s elapsed | cpu 7% | mem 9.3 GiB
+  ... 210s elapsed | cpu 8% | mem 9.3 GiB
+  ... 240s elapsed | cpu 4% | mem 9.4 GiB
+  ... 270s elapsed | cpu 4% | mem 9.4 GiB
+  ... 300s elapsed | cpu 4% | mem 9.3 GiB
+  ... 330s elapsed | cpu 5% | mem 9.3 GiB
+  ... 360s elapsed | cpu 6% | mem 9.4 GiB
+  ... 390s elapsed | cpu 12% | mem 9.4 GiB
+  ... 420s elapsed | cpu 4% | mem 9.3 GiB
+  ... 450s elapsed | cpu 4% | mem 9.3 GiB
+  ... 480s elapsed | cpu 4% | mem 9.3 GiB
+  ... 510s elapsed | cpu 4% | mem 9.3 GiB
+  ... 540s elapsed | cpu 4% | mem 9.3 GiB
+  ... 570s elapsed | cpu 4% | mem 9.3 GiB
+  ... 600s elapsed | cpu 4% | mem 9.3 GiB
+  ... 630s elapsed | cpu 4% | mem 9.3 GiB
+  ... 660s elapsed | cpu 4% | mem 9.3 GiB
+  ... 690s elapsed | cpu 4% | mem 9.3 GiB
+  ... 720s elapsed | cpu 4% | mem 9.3 GiB
+  ... 750s elapsed | cpu 3% | mem 9.3 GiB
+  ... 780s elapsed | cpu 4% | mem 9.3 GiB
+  ... 810s elapsed | cpu 4% | mem 9.3 GiB
+  ... 840s elapsed | cpu 4% | mem 9.3 GiB
+  ... 870s elapsed | cpu 4% | mem 9.3 GiB
+  ... 900s elapsed | cpu 3% | mem 9.4 GiB
+  ... 930s elapsed | cpu 5% | mem 9.3 GiB
+  ... 960s elapsed | cpu 4% | mem 9.3 GiB
+  ... 990s elapsed | cpu 4% | mem 9.4 GiB
+  ... 1020s elapsed | cpu 4% | mem 9.4 GiB
+  ... 1050s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1080s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1110s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1140s elapsed | cpu 5% | mem 9.3 GiB
+  ... 1170s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1200s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1230s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1260s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1290s elapsed | cpu 4% | mem 9.3 GiB
+  ... 1320s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1350s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1380s elapsed | cpu 3% | mem 8.7 GiB
+  ... 1410s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1440s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1470s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1500s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1530s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1560s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1590s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1620s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1650s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1680s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1710s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1740s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1770s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1800s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1830s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1860s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1890s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1920s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1950s elapsed | cpu 4% | mem 8.7 GiB
+  ... 1980s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2010s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2040s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2070s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2100s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2130s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2160s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2190s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2220s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2250s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2280s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2310s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2340s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2370s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2400s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2430s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2460s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2490s elapsed | cpu 3% | mem 8.7 GiB
+  ... 2520s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2550s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2580s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2610s elapsed | cpu 3% | mem 8.7 GiB
+  ... 2640s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2670s elapsed | cpu 6% | mem 8.8 GiB
+  ... 2700s elapsed | cpu 5% | mem 8.7 GiB
+  ... 2730s elapsed | cpu 5% | mem 8.7 GiB
+  ... 2760s elapsed | cpu 4% | mem 8.8 GiB
+  ... 2790s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2820s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2850s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2880s elapsed | cpu 4% | mem 8.8 GiB
+  ... 2910s elapsed | cpu 4% | mem 8.8 GiB
+  ... 2940s elapsed | cpu 4% | mem 8.7 GiB
+  ... 2970s elapsed | cpu 4% | mem 8.8 GiB
+  ... 3000s elapsed | cpu 4% | mem 8.8 GiB
+  ... 3030s elapsed | cpu 3% | mem 8.8 GiB
+  ... 3060s elapsed | cpu 3% | mem 9.1 GiB
+  ... 3090s elapsed | cpu 3% | mem 9.1 GiB
+  ... 3120s elapsed | cpu 10% | mem 9.1 GiB
+  ... 3150s elapsed | cpu 27% | mem 9.0 GiB
+  ... 3180s elapsed | cpu 27% | mem 9.0 GiB
+PIPELINE FAILED. Last lines of output:
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- ListFiles: 1/1
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 0.0B object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- ReadFilesParquetV2: 3539193/3539193
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 106.4MiB object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- MapBatches(stage_a): 2008888/4017776
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0 [backpressured:tasks(ResourceBudget)]; Actors: 0; Queued blocks: 1 (106.4MiB); Resources: 0.0 CPU, 168.6MiB object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- ListFiles: 1/1
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 0.0B object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- ReadFilesParquetV2: 3076903/3076903
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 72.3MiB object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- MapBatches(stage_a): 2002049/4004098
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0 [backpressured:tasks(ResourceBudget)]; Actors: 0; Queued blocks: 1 (72.3MiB); Resources: 0.0 CPU, 168.0MiB object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- ListFiles: 1/1
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 0.0B object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- ReadFilesParquetV2: 2979183/2979183
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 65.1MiB object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- MapBatches(stage_a): 1998666/3997332
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0 [backpressured:tasks(ResourceBudget)]; Actors: 0; Queued blocks: 1 (65.1MiB); Resources: 0.0 CPU, 167.7MiB object store
+2026-10-04 20:49:22,677	INFO logging_progress.py:231 -- UnionOperator(MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a), MapBatches(stage_a)): 87206992/141997180
+2026-10-04 20:49:22,677	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 0.0B object store
+2026-10-04 20:49:22,678	INFO logging_progress.py:231 -- MapBatches(add_part): 2430152/170110640
+2026-10-04 20:49:22,678	INFO logging_progress.py:233 --   Tasks: 0 [backpressured:tasks(ResourceBudget)]; Actors: 0; Queued blocks: 84 (6.9GiB); Resources: 0.0 CPU, 222.5MiB object store
+2026-10-04 20:49:22,678	INFO logging_progress.py:231 -- Shuffle(key_columns=('_part',), num_partitions=128): 0/1
+2026-10-04 20:49:22,678	INFO logging_progress.py:233 --   Tasks: 2 [backpressured:tasks(ResourceBudget)]; Actors: 0; Queued blocks: 0 (0.0B); Resources: 4.0 CPU, 40.0GiB memory, 0.0B object store
+2026-10-04 20:49:22,678	INFO logging_progress.py:231 --     - Shuffle: 0/?
+2026-10-04 20:49:22,678	INFO logging_progress.py:231 --     - Reduce: 0/1
+2026-10-04 20:49:22,678	INFO logging_progress.py:231 -- MapBatches(dedup_group)->MapBatches(stage_c)->Write: 0/1
+2026-10-04 20:49:22,678	INFO logging_progress.py:233 --   Tasks: 0; Actors: 0; Queued blocks: 0 (0.0B); Resources: 0.0 CPU, 0.0B object store
+2026-10-04 20:49:22,678	INFO logging_progress.py:192 -- =================================================================
+[2026-10-04 20:52:27,931 E 111572 111610] rpc_client.h:204: Failed to connect to GCS within 60 seconds. GCS may have been killed. It's either GCS is terminated by `ray stop` or is killed unexpectedly. If it is killed unexpectedly, see the log file gcs_server.out. https://docs.ray.io/en/master/ray-observability/user-guides/configure-logging.html#logging-directory-structure. The program will terminate.
+RAY FULL DONE
