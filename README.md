@@ -139,7 +139,7 @@ python benchmark.py --framework spark --max-files 0  --run 1          # full 44 
 python benchmark.py --framework ray   --max-files 0  --dedup perfile --run 1
 ```
 
-Other flags: `--udf-mode native`, `--dedup off`, `--keep` (keep the output). Each run writes `results/bench/<tag>.json` and `results/bench/<tag>_usage.csv` (per-second CPU and memory). `python scripts/summary.py` prints one line per run. `scripts/run_spark_phase.sh` runs the Spark benchmark sequence.
+Other flags: `--udf-mode native`, `--dedup off`, `--keep` (keep the output). Each run writes `results/bench/<tag>.json` and `results/bench/<tag>_usage.csv` (per-second CPU and memory). `python scripts/summary.py` prints one line per run.
 
 Leave the machine idle while benchmarking, and run only one cluster at a time.
 
