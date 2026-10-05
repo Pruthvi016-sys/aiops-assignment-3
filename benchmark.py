@@ -9,7 +9,7 @@ ap.add_argument("--framework", required=True, choices=["spark", "ray"])
 ap.add_argument("--udf-mode", default="python", choices=["python", "native"])
 ap.add_argument("--max-files", type=int, default=0, help="0 = all files")
 ap.add_argument("--run", type=int, default=1)
-ap.add_argument("--dedup", default=None, help="ray only: on|off|hash|twopass")
+ap.add_argument("--dedup", default=None, help="ray: perfile (default)|off|on|hash|twopass; spark: on (default)|off")
 ap.add_argument("--keep", action="store_true", help="keep the output directory")
 a = ap.parse_args()
 
